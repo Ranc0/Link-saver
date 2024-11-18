@@ -1,0 +1,56 @@
+body
+{
+	margin:0;
+	padding :10px;
+	font-family: arial;
+	min-width: 550px; 
+	min-height: 150px;
+}
+input
+{
+	width: 100%;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 1px solid green ; 
+	box-sizing: borded-box;
+	margin-bottom: 4px;
+
+}
+#selectall-btn , #deleteSelected-btn
+{
+	background: white;
+	color :#5f9341;
+}
+
+button
+{
+	background : #5f9341;
+	color : white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 8px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: 1px solid #5f9341;
+	font-weight: bold;
+
+}
+ul
+{
+	margin-top: 20px;
+	list-style: none;
+	padding-left: 0;
+
+
+}
+li
+{
+	margin-top: 5px;
+}
+li a
+{
+	color:#5f9341;
+
+}
