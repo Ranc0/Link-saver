@@ -17,6 +17,8 @@
 ## Introduction
 
 Link-saver is a Chrome extension designed to help users easily save and manage website links. It provides a simple interface for capturing links directly from open tabs or manually entering them, allowing for efficient link organization and retrieval.
+<img src = "preview.png">
+</br>
 
 ## Features
 
